@@ -20,6 +20,12 @@
   <a href="https://github.com/DuduO6">
     <img src="https://img.shields.io/badge/GitHub-DuduO6-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+
+  <a href="https://www.linkedin.com/in/marcus-eduardo-resende-melo-a61662340">
+    <img src="https://img.shields.io/badge/LinkedIn-Marcus%20Eduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  
   <a href="mailto:marcuseduardomelo34@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
